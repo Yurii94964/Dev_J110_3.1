@@ -56,9 +56,7 @@ public class LinkedListed {
     public void extractValueFirst(){//извлечение значения из начала списка без его удаления из списка
         Node t = this.head;
        System.out.println("First element: " + t.value);
-   
-        
-        
+       
     }
     public void extractValueFirstFromDelete(){//извлечение значения из начала списка с удалением из списка
          Node t = this.head;
