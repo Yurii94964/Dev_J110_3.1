@@ -25,9 +25,6 @@ public class Main {
         linklist.addLast(60);
         linklist.addLast(70);
         
-       
-        
-       
         linklist.extractValueFirst();
         linklist.extractValueTail();
        linklist.extractValueFirstFromDelete();
@@ -39,8 +36,6 @@ public class Main {
         linklist.printLinkedList();
        
         System.out.println(linklist.get(60));
-        
-       
         
     }
     
